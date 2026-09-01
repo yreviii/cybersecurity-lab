@@ -27,16 +27,16 @@ int main() {
 
     totalCost = affectedSystems * recoveryCost;
 
-    printf("\n=================================\n");
+    printf("\n________________________________\n");
     printf("SECURITY INCIDENT REPORT\n");
-    printf("=================================\n");
+    printf("__________________________________\n");
     printf("Incident ID : %d\n", incidentID);
     printf("Analyst : %s\n", analyst);
     printf("Affected Systems : %d\n", affectedSystems);
     printf("Recovery Cost : %.0f\n", recoveryCost);
     printf("Total Cost : %.0f\n", totalCost);
     printf("Downtime : %.2f hours\n", downtime);
-    printf("=================================\n");
+    printf("__________________________________\n");
 
     return 0;
 }

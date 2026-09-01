@@ -1,3 +1,3 @@
 # PF-Lab-3
-blablablablabla
-For bold **Hahahahaha**
+This is the last of the Lab#3 Tasks
+**Written and verified on VS Code**
